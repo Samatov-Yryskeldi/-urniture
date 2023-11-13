@@ -1,0 +1,19 @@
+*{
+    margin: 0 auto;
+    padding: 0    ;
+    box-sizing: border-box;
+}
+.container{
+    width: 1920px;
+    height: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    .header-img{
+        position: relative;
+        display: flex; 
+    }
+    .header-img>img{
+        margin-left: 10rem;
+    }
+}
