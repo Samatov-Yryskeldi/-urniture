@@ -1,7 +1,7 @@
 import React from "react";
 
-const ThirdBlock = () => {
+const Fifth = () => {
   return <div></div>;
 };
 
-export default ThirdBlock;
+export default Fifth;
